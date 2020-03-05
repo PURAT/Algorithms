@@ -1,0 +1,18 @@
+# IntelliJ
+out/
+.idea/
+*.iml
+*.ipr
+
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+
+# Log file
+*.log
+
+# Java files
+Main.java
+
