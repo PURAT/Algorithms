@@ -1,7 +1,7 @@
 package sorting;
 
 public class Selection {
-    public static void selectionSortingAscending(double[] array) {
+    public static void sortingAscending(double[] array) {
         for (int i = 0; i < array.length - 1; i++) {
             int min_i = i;
             for (int j = i + 1; j < array.length; j++) {

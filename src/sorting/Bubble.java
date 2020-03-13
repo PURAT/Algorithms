@@ -1,7 +1,7 @@
 package sorting;
 
 public class Bubble {
-    public static void bubbleSortingAscending(double[] array) {
+    public static void sortingAscending(double[] array) {
         for (int out = array.length - 1; out >= 1; out--) {
             for (int in = 0; in < out; in++) {
                 if (array[in] > array[in + 1]) {
